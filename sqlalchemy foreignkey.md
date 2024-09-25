@@ -99,7 +99,7 @@ class Child(Base):
 ```
 и тут мы определяем 2 модели которые обращяются к друг другу через integration_table которая их соеденяет
 
-# relationship
+# from sqlalchemy.orm  relationship
 это функция которая указывает с каким классом связана модель 
 ```python
 class Students(Base):  

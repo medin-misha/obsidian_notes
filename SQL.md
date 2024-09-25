@@ -26,4 +26,3 @@
 - T-SQL – диалект Microsoft SQL Server
 - PL/SQL – диалект Oracle Database
 - PL/pgSQL – диалект PostgreSQL
-[[IT]]
