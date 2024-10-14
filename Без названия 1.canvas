@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"97ae880ef8423d7c","type":"text","text":"место для парковки\nзанято = True\n","x":308,"y":-48,"width":242,"height":93},
+		{"id":"82ec238fbff2a9f7","type":"text","text":"место для парковки\nзанято = False","x":308,"y":81,"width":250,"height":60},
+		{"id":"620674b0856bffe0","type":"text","text":"ClientParking\ntime_in=2\ntime_out=None","x":734,"y":-189,"width":250,"height":88},
+		{"id":"5850bf7065844a37","type":"text","text":"ClientParking который уже уехал\ntime_in=1\ntime_out=3\n","x":734,"y":81,"width":250,"height":149},
+		{"id":"4f3ef870302e9d2c","type":"text","text":"ClientParking\ntime_in=1\ntime_out=None","x":734,"y":-57,"width":250,"height":93},
+		{"id":"4f23e5c97226968a","type":"text","text":"Parking\ncount_places = 3\ncount_availible_places = 1","x":-320,"y":-57,"width":374,"height":111},
+		{"id":"11db97060fc87ee8","type":"text","text":"место для парковки\nзанято = True21","x":300,"y":-277,"width":250,"height":132}
+	],
+	"edges":[
+		{"id":"55d2a18c4bf34c34","fromNode":"97ae880ef8423d7c","fromSide":"right","toNode":"4f3ef870302e9d2c","toSide":"left"},
+		{"id":"fdc00039df699cdc","fromNode":"11db97060fc87ee8","fromSide":"right","toNode":"620674b0856bffe0","toSide":"left"},
+		{"id":"5487d72d7b93a6cd","fromNode":"4f23e5c97226968a","fromSide":"right","toNode":"11db97060fc87ee8","toSide":"left"},
+		{"id":"c7266a53365e28d8","fromNode":"4f23e5c97226968a","fromSide":"right","toNode":"97ae880ef8423d7c","toSide":"left"},
+		{"id":"480e4c0006a40c04","fromNode":"4f23e5c97226968a","fromSide":"right","toNode":"82ec238fbff2a9f7","toSide":"left"}
+	]
+}

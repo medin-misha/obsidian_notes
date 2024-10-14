@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Моё резюме.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Моё резюме.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Моё резюме.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Моё резюме.md"
               }
             }
           }
@@ -149,11 +149,17 @@
   },
   "active": "f19dcecd080141bf",
   "lastOpenFiles": [
+    "как создать событие до начала принятия запросов и после работы приложения Fast API.md",
+    "Моё резюме.md",
+    "группы задач.md",
+    "конспекты/FastAPI + SQLAlchemy/Видео 3.md",
+    "конспекты/FastAPI + SQLAlchemy/Видео 2.md",
     "конспекты/тестирование/pytest.md",
     "конспекты/тестирование/Виды тестов.md",
+    "Без названия 1.canvas",
+    "Git.md",
     "вопросы по css.md",
     "конспекты/тестирование",
-    "конспекты/FastAPI + SQLAlchemy/Видео 1.md",
-    "Git.md"
+    "конспекты/FastAPI + SQLAlchemy/Видео 1.md"
   ]
 }
