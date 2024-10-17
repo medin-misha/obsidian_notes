@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23fdd6401a5926c8",
+        "id": "3e0c918c20724cb0",
         "type": "tabs",
         "children": [
           {
-            "id": "f19dcecd080141bf",
+            "id": "f6dd6c48fed5d92d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моё резюме.md",
+                "file": "bspwm configs.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5b937f92cb91fea6",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Моё резюме.md",
+                "file": "bspwm configs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Моё резюме.md",
+                "file": "bspwm configs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Моё резюме.md"
+                "file": "bspwm configs.md"
               }
             }
           }
@@ -147,10 +148,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f19dcecd080141bf",
+  "active": "f6dd6c48fed5d92d",
   "lastOpenFiles": [
-    "как создать событие до начала принятия запросов и после работы приложения Fast API.md",
+    "bspwm configs.md",
+    "создание графиков python.md",
     "Моё резюме.md",
+    "как создать событие до начала принятия запросов и после работы приложения Fast API.md",
     "группы задач.md",
     "конспекты/FastAPI + SQLAlchemy/Видео 3.md",
     "конспекты/FastAPI + SQLAlchemy/Видео 2.md",
