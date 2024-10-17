@@ -15,7 +15,7 @@ bspc config left_padding 2
 bspc config right_padding 2
   
 bspc config focused_border_color "#ffffff"
-bspc config normal_border_color "#000000"
+bspc config normal_border_color "#5e5d5e"
   
 bspc config split_ratio 0.52
 bspc config borderless_monocle true
@@ -325,6 +325,10 @@ super + ctrl + space
 # cancel the preselection for the focused desktop
 super + ctrl + shift + space
 	bspc query -N -d | xargs -I id -n 1 bspc node id -p cancel
+
+# Перемещение фокуса по направлению
+super + {h,j,k,l}
+    bspc node -f {west,south,north,east}
 
 # Expand/contract a window by moving one of its side outward/inward
 alt  {Left,Down,Up,Right}
