@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bspwm configs.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Git"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ],
@@ -70,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 236.5086555480957
   },
   "right": {
     "id": "5b937f92cb91fea6",
@@ -95,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для bspwm configs"
             }
           },
           {
@@ -107,7 +116,9 @@
                 "file": "bspwm configs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из bspwm configs"
             }
           },
           {
@@ -118,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -128,7 +141,9 @@
               "type": "outline",
               "state": {
                 "file": "bspwm configs.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Структура bspwm configs"
             }
           }
         ]
@@ -150,6 +165,10 @@
   },
   "active": "f6dd6c48fed5d92d",
   "lastOpenFiles": [
+    "переменные окружения.md",
+    "конспекты/FastAPI + SQLAlchemy/Видео 1.md",
+    "poetry.md",
+    "OptionsAPI.md",
     "bspwm configs.md",
     "создание графиков python.md",
     "Моё резюме.md",
@@ -162,7 +181,6 @@
     "Без названия 1.canvas",
     "Git.md",
     "вопросы по css.md",
-    "конспекты/тестирование",
-    "конспекты/FastAPI + SQLAlchemy/Видео 1.md"
+    "конспекты/тестирование"
   ]
 }

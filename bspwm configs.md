@@ -350,3 +350,23 @@ configuration {
   combi-modes: [ window, drun, run ];
 }
 ```
+## kitty
+```
+font_family JetbrainsMono-Bold
+font_size 13.0
+disable_ligatures never
+# font_features FiraCode-Retina +zero
+  
+hide_window_decorations yes
+window_padding_width 3
+background_opacity 0.88
+
+  
+editor emacs
+macos_quit_when_last_window_closed yes
+disable_ligatures cursor
+  
+active_tab_font_style bold
+  
+map ctrl+shift+n new_tab_with_cwd
+```
