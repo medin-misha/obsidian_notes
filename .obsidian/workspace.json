@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0c918c20724cb0",
+        "id": "d8dbc53c4c66f409",
         "type": "tabs",
         "children": [
           {
-            "id": "f6dd6c48fed5d92d",
+            "id": "e16297460534515e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primary Key.md",
+                "file": "Создание машины состояний в aiogram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primary Key"
-            }
-          },
-          {
-            "id": "79d97ac1cc11b2c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "создание телеграмм бота в aiogram.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "создание телеграмм бота в aiogram"
+              "title": "Создание машины состояний в aiogram"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "телеграм",
+                "query": "FSM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,11 +73,12 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 236.5086555480957
+    "width": 200
   },
   "right": {
     "id": "5b937f92cb91fea6",
@@ -177,10 +163,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "79d97ac1cc11b2c2",
+  "active": "e16297460534515e",
   "lastOpenFiles": [
-    "Primary Key.md",
     "создание телеграмм бота в aiogram.md",
+    "Primary Key.md",
+    "Создание машины состояний в aiogram.md",
+    "python.md",
+    "aiogram.md",
     "Git.md",
     "переменные окружения.md",
     "конспекты/FastAPI + SQLAlchemy/Видео 1.md",
