@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d8dbc53c4c66f409",
+        "id": "0525299fac0d0b91",
         "type": "tabs",
         "children": [
           {
-            "id": "e16297460534515e",
+            "id": "4dc3b79892f7da18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Что такое web  server.md",
+                "file": "конспекты/FastAPI + SQLAlchemy/Видео 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Что такое web  server"
-            }
-          },
-          {
-            "id": "defe8bcd40ee01a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NGINX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NGINX"
-            }
-          },
-          {
-            "id": "3ede9f37c00faac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "docker"
-            }
-          },
-          {
-            "id": "5ab2d5e962fa0b1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dockerfile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dockerfile"
+              "title": "Видео 2"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,12 +52,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dockerfile",
-                "matchingCase": false,
+                "query": "declared",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Поиск"
@@ -206,38 +163,38 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5ab2d5e962fa0b1f",
+  "active": "4dc3b79892f7da18",
   "lastOpenFiles": [
-    "docker.md",
-    "NGINX.md",
+    "работа со связями sqlalchemy.md",
+    "sqlalchemy foreignkey.md",
+    "sqlalchemy lazy cascade.md",
     "архитектура итогового проэкта python advanced.canvas",
-    "Git.md",
-    "gunicorn.md",
-    "Что такое web  server.md",
+    "normalize.css.md",
+    "reset.css.md",
+    "конспекты/FastAPI + SQLAlchemy/Видео 2.md",
+    "sqlalchemy.md",
+    "sqlalchemy с flask.md",
+    "PostgresSQL.md",
+    "конспекты/FastAPI + SQLAlchemy/Видео 3.md",
+    "базовый css.md",
+    "HTML элементы разметки.md",
+    "Раздача статики nginx.md",
+    "NGINX.conf.md",
+    "WSGI сервера.md",
+    "NGINX.md",
+    "конспекты/как грести бабло без стартового капитала.md",
     "конспекты/вёрстка/модуль 1.md",
+    "NGNIX в качестве proxy сервера.md",
+    "docker-compose.md",
+    "Моё резюме.md",
+    "gunicorn.md",
+    "Dockerfile.md",
+    "docker.md",
+    "docker compose.md",
+    "Git.md",
     "конспекты/вёрстка",
     "Без названия 2.canvas",
     "Без названия.canvas",
-    "конспекты/FastAPI + SQLAlchemy/Без названия.md",
-    "работа с данными в Core sqlalchemy.md",
-    "Создание машины состояний в aiogram.md",
-    "создание телеграмм бота в aiogram.md",
-    "Primary Key.md",
-    "python.md",
-    "aiogram.md",
-    "переменные окружения.md",
-    "конспекты/FastAPI + SQLAlchemy/Видео 1.md",
-    "poetry.md",
-    "OptionsAPI.md",
-    "bspwm configs.md",
-    "создание графиков python.md",
-    "Моё резюме.md",
-    "как создать событие до начала принятия запросов и после работы приложения Fast API.md",
-    "группы задач.md",
-    "конспекты/FastAPI + SQLAlchemy/Видео 3.md",
-    "конспекты/FastAPI + SQLAlchemy/Видео 2.md",
-    "конспекты/тестирование/pytest.md",
-    "конспекты/тестирование/Виды тестов.md",
     "конспекты/тестирование"
   ]
 }
