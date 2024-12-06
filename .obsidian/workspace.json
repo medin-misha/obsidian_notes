@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0525299fac0d0b91",
+        "id": "a942b9e2dc8a5d43",
         "type": "tabs",
         "children": [
           {
-            "id": "4dc3b79892f7da18",
+            "id": "0d8d7936fc0d670a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "конспекты/FastAPI + SQLAlchemy/Видео 2.md",
+                "file": "конспекты/основ SQL/введение в SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Видео 2"
+              "title": "введение в SQL"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "declared",
+                "query": "opacity",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,35 +162,55 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4dc3b79892f7da18",
+  "active": "0d8d7936fc0d670a",
   "lastOpenFiles": [
-    "работа со связями sqlalchemy.md",
-    "sqlalchemy foreignkey.md",
-    "sqlalchemy lazy cascade.md",
+    "конспекты/Профилирование python/Дебаг логирование профилирование.md",
+    "конспекты/основ SQL/введение в SQL.md",
+    "конспекты/основ SQL",
+    "image_019.png",
+    "конспекты/Профилирование python",
+    "конспекты/Без названия.md",
+    "анархические знания/Dockerfile.md",
+    "конспекты/nginx",
+    "анархические знания/docker.md",
+    "конспекты/МАТЕМАТИКАААА СУУУУКАААА/десятичные дробЫ.md",
+    "конспекты/базовый JS TS/урок 3.md",
+    "конспекты/МАТЕМАТИКАААА СУУУУКАААА",
+    "конспекты/базовый JS TS/урок 2.md",
+    "конспекты/базовый JS TS/Устаровка ПО.md",
+    "конспекты/базовая вёрстка/базовый css.md",
+    "конспекты/базовый JS TS",
+    "конспекты/базовая вёрстка/модуль 4/тени фон границы.md",
+    "конспекты/базовая вёрстка/модуль 4/стилизация текста и цвета.md",
+    "конспекты/базовая вёрстка/модуль 4/шрифтовые свойства.md",
+    "конспекты/базовая вёрстка/normalize.css.md",
+    "конспекты/базовая вёрстка/HTML элементы разметки.md",
+    "конспекты/базовая вёрстка/модуль 4/позиционирование css.md",
+    "конспекты/базовая вёрстка/reset.css.md",
+    "конспекты/базовая вёрстка/базовая вёрстка.md",
+    "анархические знания/Раздача статики nginx.md",
+    "анархические знания/NGINX.md",
+    "анархические знания/NGINX.conf.md",
+    "анархические знания/docker-compose.md",
+    "анархические знания/PostgresSQL.md",
+    "анархические знания/gunicorn.md",
+    "анархические знания/переменные окружения.md",
+    "конспекты/базовая вёрстка/модуль 4",
+    "конспекты/базовая вёрстка",
+    "позиционирование css.md",
+    "анархические знания/Без названия 2.canvas",
+    "анархические знания/архитектура итогового проэкта python advanced.canvas",
+    "анархические знания/Pasted image 20240904162658.png",
+    "анархические знания/Pasted image 20240825211957.png",
+    "анархические знания/Pasted image 20240825204718.png",
+    "анархические знания/Pasted image 20240825202505.png",
+    "анархические знания/Pasted image 20240825201950.png",
+    "анархические знания/Pasted image 20240818134723.png",
+    "анархические знания/Pasted image 20240817213816.png",
+    "анархические знания/Pasted image 20240803125404.png",
+    "анархические знания/Pasted image 20240730163522.png",
+    "анархические знания",
     "архитектура итогового проэкта python advanced.canvas",
-    "normalize.css.md",
-    "reset.css.md",
-    "конспекты/FastAPI + SQLAlchemy/Видео 2.md",
-    "sqlalchemy.md",
-    "sqlalchemy с flask.md",
-    "PostgresSQL.md",
-    "конспекты/FastAPI + SQLAlchemy/Видео 3.md",
-    "базовый css.md",
-    "HTML элементы разметки.md",
-    "Раздача статики nginx.md",
-    "NGINX.conf.md",
-    "WSGI сервера.md",
-    "NGINX.md",
-    "конспекты/как грести бабло без стартового капитала.md",
-    "конспекты/вёрстка/модуль 1.md",
-    "NGNIX в качестве proxy сервера.md",
-    "docker-compose.md",
-    "Моё резюме.md",
-    "gunicorn.md",
-    "Dockerfile.md",
-    "docker.md",
-    "docker compose.md",
-    "Git.md",
     "конспекты/вёрстка",
     "Без названия 2.canvas",
     "Без названия.canvas",

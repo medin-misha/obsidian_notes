@@ -27,4 +27,3 @@ gunicorn main:app --workers 1 --worker-class uvicorn.workers.UvicornWorker --bin
 `--worker-class` тут указываеться какой воркер будет работать с твоим приложением. `uvicorn.workers.UvicornWorker` работает с uvicorn/
 
 `--bind` хост и порт на который будут оправляться запросы
-# настройка в отдельном файле
